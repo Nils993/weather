@@ -8,12 +8,12 @@
 -	Настроена стилизация интерфейса с использованием CSS3
 
 Стек: 
--Vue.js
--Vite
--JavaScript
--API
--HTML
--CSS 
+- Vue.js
+- Vite
+- JavaScript
+- API
+- HTML
+- CSS 
 
 # Установка и запуск проекта
 1. Установите зависимости
